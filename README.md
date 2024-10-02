@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">- Java Developer<br>- I am currently a student at Universidade Positivo</p>
+<p align="left">- Java & KotlinDeveloper<br>- Software Engineer at Arcotech <br>- Student at Universidade Positivo</p>
 
 ###
 
