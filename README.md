@@ -90,5 +90,6 @@ Whats up 👋 My name is Miguel and i'm a backend developer. There are some thin
 
 ### 📊 Statistics
 
-![Metrics](https://metrics.lecoq.io/MiguelMicoski?template=classic&languages=1&repositories=1&achievements=1)
+![Stats](https://seu-app.vercel.app/api?username=MiguelMicoski)
+
 
