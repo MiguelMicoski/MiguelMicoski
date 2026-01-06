@@ -1,4 +1,4 @@
-# 🧑🏽‍💻 Miguel Micoski
+# 🌐 Miguel Micoski
 
 **`Backend Developer`**
 
@@ -9,7 +9,7 @@ Whats up 👋 My name is Miguel and i'm a backend developer. There are some thin
 
 ---
 
-### 🤖 Languages and technologies
+### 🧪 Languages and technologies
 
 <img 
     align="left" 
@@ -84,14 +84,6 @@ Whats up 👋 My name is Miguel and i'm a backend developer. There are some thin
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
 
-
-<br/>
-<br/>
-
-### 📊 Statistics
-
-![Followers](https://img.shields.io/github/followers/MiguelMicoski?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/MiguelMicoski?style=for-the-badge)
 
 
 
