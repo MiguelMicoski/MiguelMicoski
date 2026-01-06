@@ -1,13 +1,22 @@
-# 🌐 Miguel Micoski
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFB3&background=00000000&center=true&vCenter=true&width=700&lines=Miguel+Micoski;Software+Engineer)
+=
 
 **`Backend Developer`**
 
-Whats up 👋 My name is Miguel and i'm a backend developer. There are some things about me:
-- Currently studying Systems Analysis and Development at Universidade Positivo
-- Java and Kotlin Developer
-- Working at Arcotech as a Software Engineer
 
----
+What's up👋 I'm Miguel, a backend developer focused on building scalable and maintainable systems.
+
+- 🎓 Currently studying Systems Analysis and Development at Universidade Positivo  
+- ☕ Java & Kotlin developer  
+- 💼 Software Engineer at Arcotech  
+
+<p>
+Problem solver, passionate about learning new things and a tech enthusiast.
+</p>
+
+> “Sometimes you gotta run before you can walk.” — *Iron Man*
+
+
 
 ### 🧪 Tech Stack
 
@@ -84,6 +93,19 @@ Whats up 👋 My name is Miguel and i'm a backend developer. There are some thin
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
 
+<br clear="left"/>
+
+
+### 🌐 Socials
+
+<p align="left">
+  <a href="https://www.instagram.com/micoskijr/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/miguel-edson-micoski-junior-97b129253/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 
 
