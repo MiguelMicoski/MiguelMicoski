@@ -90,6 +90,5 @@ Whats up 👋 My name is Miguel and i'm a backend developer. There are some thin
 
 ### 📊 Statistics
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MiguelMicoski&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![Metrics](https://metrics.lecoq.io/MiguelMicoski?template=classic&languages=1&repositories=1&achievements=1)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MiguelMicoski&layout=compact&theme=tokyonight)
