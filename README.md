@@ -90,6 +90,6 @@ Whats up 👋 My name is Miguel and i'm a backend developer. There are some thin
 
 ### 📊 Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelMicoski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MiguelMicoski&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMicoski&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MiguelMicoski&layout=compact&theme=tokyonight)
