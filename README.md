@@ -9,7 +9,7 @@ Whats up 👋 My name is Miguel and i'm a backend developer. There are some thin
 
 ---
 
-### 🧪 Languages and technologies
+### 🧪 My stacks
 
 <img 
     align="left" 
