@@ -90,6 +90,8 @@ Whats up 👋 My name is Miguel and i'm a backend developer. There are some thin
 
 ### 📊 Statistics
 
-![Stats](https://seu-app.vercel.app/api?username=MiguelMicoski)
+![Followers](https://img.shields.io/github/followers/MiguelMicoski?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/MiguelMicoski?style=for-the-badge)
+
 
 
