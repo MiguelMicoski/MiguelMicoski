@@ -38,6 +38,14 @@ Problem solver, passionate about learning new things and a tech enthusiast.
 />
 <img 
     align="left" 
+    alt="Go"
+    title="Go" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Intellij" 
     title="Intellij"
     width="30px" 
@@ -90,7 +98,7 @@ Problem solver, passionate about learning new things and a tech enthusiast.
     title="aws"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
 
 <br clear="left"/>
