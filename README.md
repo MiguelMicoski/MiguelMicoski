@@ -8,7 +8,7 @@ What's up👋 I'm Miguel, a backend developer focused on building scalable and m
 
 - 🎓 Currently studying Systems Analysis and Development at Universidade Positivo  
 - ☕ Java & Kotlin developer  
-- 💼 Software Engineer at Arcotech  
+- 💼 Software Engineer at MadeiraMadeira  
 
 <p>
 Problem solver, passionate about learning new things and a tech enthusiast.
